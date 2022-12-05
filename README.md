@@ -29,7 +29,7 @@
   
 <br/>
   
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zalexzuo&layout=compact&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zalexzuo&layout=compact&theme=dark&hide=html)
 
 <h3>Contant me</h3>  
 <a href="https://medium.com/@zalexzuo">  
