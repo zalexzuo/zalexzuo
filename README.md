@@ -26,8 +26,10 @@
 [![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,firebase)](https://skillicons.dev)
 
 ### Stay Passionate and Stay Curious 🧑🏽‍💻  
-  
+
 <br/>
+
+![Codewars](https://www.codewars.com/users/zalexzuo/badges/small)
   
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=zalexzuo&layout=compact&theme=dark&hide=html)
 
