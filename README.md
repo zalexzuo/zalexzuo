@@ -11,8 +11,8 @@
 </td>
 <td align="center" width="50%">
 <p align="center" width="100%">
-<img width="80%" src="https://global-uploads.webflow.com/618fa90c201104b94458e1fb/6299f18349b8304b2427860a_FP0RnJQZi0ZELYsIYPD8LGQ32iywLflse728ZTmTapBqwFUao__86XpjAZGKUbHUIDQjXZ4OrPuBr1zgf0wk_Kef539Ki1GFWnT9K3qCnz0T5z0IYtp4rX-ZxBu7A09Gwg2-gLu9EcXJF6YzSQ.gif" alt="react">
-<h4> Currently focusing on front-end development<br/>in ReactJs and Javascript.</h4>
+<img width="60%" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" alt="codingIsFun">
+<h4> Currently focusing on front-end development</h4>
 </p>
       
 </td>
