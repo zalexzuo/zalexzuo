@@ -23,7 +23,7 @@
 <h3>My Skills</h3>  
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,redux)](https://skillicons.dev) \
-[![My Skills](https://skillicons.dev/icons?i=git,java,spring,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sass,git,java,spring,mysql)](https://skillicons.dev)
 
 ### Stay Passionate and Stay Curious 🧑🏽‍💻  
 
